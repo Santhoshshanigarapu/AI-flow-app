@@ -48,8 +48,7 @@ root/
 
 ###  Clone Repository
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/Santhoshshanigarapu/AI-flow-app.git
 
 Run backend:
 npm run dev
